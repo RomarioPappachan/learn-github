@@ -1,0 +1,2 @@
+To merge a Git branch, first switch to the target branch (the one you want to merge into), 
+then use the command git merge <branch_name> to incorporate changes from the source branch. 
